@@ -1,0 +1,19 @@
+#headertitle{
+    color: red;
+}
+
+div{
+    position:  relative;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 230;
+    left: 20;
+    padding: 1rem;
+    font-size: 2rem;
+    font-weight: 100;
+    color: 
+  white;
+    backdrop-filter: blur(8px) brightness(80%);
+  }
